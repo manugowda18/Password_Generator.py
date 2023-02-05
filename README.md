@@ -1,1 +1,2 @@
-# High_Security_Password_Generator.py
+_High Security Random Password Generator_
+<h6>This code generates random passwords of user-specified length. The "generatePassword" function generates a list of random passwords based on the lengths specified by the user. The "replaceWithNumber" and "replaceWithUppercaseLetter" functions randomly add numbers and uppercase letters to the passwords. The "main" function prompts the user for the number of passwords they want to generate and their desired length, and then calls the "generatePassword" function to generate the passwords. The final output is a list of the generated passwords. The code also sets a minimum length of 3 characters for the passwords.</h6>
